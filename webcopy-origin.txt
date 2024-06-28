@@ -1,0 +1,964 @@
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Montserrat:wght@300;400;500;600;700;800;900&family=Satisfy&family=Poppins:wght@300;400;500;600;700&family=Schoolbell&display=swap" rel="stylesheet
+File Name: C:\web copier\interior\html.hixstudio.net\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\s\poppins\v21\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\s\poppins\v21\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\s\poppins\v21\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\s\poppins\v21\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\s\poppins\v21\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/satisfy/v21/rP2Hp2yn6lkG50LoOZQ.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\s\satisfy\v21\rP2Hp2yn6lkG50LoOZQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/schoolbell/v18/92zQtBZWOrcgoe-fgnJIVxI.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\s\schoolbell\v18\92zQtBZWOrcgoe-fgnJIVxI.ttf
+Content Type: font/ttf
+
+Uri: https://html.hixstudio.net/interno-prev/interno/about-us.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\about-us.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/appointment.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\appointment.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/css/animate.css
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/css/bootstrap.css
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/css/custom-animation.css
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\css\custom-animation.css
+Content Type: text/css
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/css/font-awesome-pro.css
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\css\font-awesome-pro.css
+Content Type: text/css
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/css/magnific-popup.css
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/css/main.css
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\css\main.css
+Content Type: text/css
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/css/slick.css
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/css/spacing.css
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\css\spacing.css
+Content Type: text/css
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/css/swiper-bundle.css
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\css\swiper-bundle.css
+Content Type: text/css
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/fonts/fa-brands-400.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\fonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/fonts/fa-brands-400.woff2
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/fonts/fa-light-300.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\fonts\fa-light-300.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/fonts/fa-light-300.woff2
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/fonts/fa-regular-400.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/fonts/fa-regular-400.woff2
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/fonts/fa-solid-900.ttf
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/fonts/fa-solid-900.woff2
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/about/shape-2-1.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\about\shape-2-1.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/about/shape-2-2.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\about\shape-2-2.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/about/shape-5-1.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\about\shape-5-1.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/about/thumb-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\about\thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/about/thumb-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\about\thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/about/thumb-3-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\about\thumb-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/about/thumb-3-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\about\thumb-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/about/thumb-4-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\about\thumb-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/about/thumb-4-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\about\thumb-4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/about/thumb-5-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\about\thumb-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/about/thumb-5-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\about\thumb-5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/author-1-1.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\author-1-1.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/author-1-2.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\author-1-2.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/author-1-3.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\author-1-3.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/blog-details-1-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\blog-details-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/blog-details-1-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\blog-details-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/blog-details-1-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\blog-details-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/blog-details-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\blog-details-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/blog-details-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\blog-details-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/blog-details-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\blog-details-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/blog1-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\blog1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/blog1-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\blog1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/blog2-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\blog2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/blog2-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\blog2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/blog2-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\blog2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/blog4-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\blog4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/blog4-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\blog4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/blog4-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\blog4-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/blog5-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\blog5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/blog5-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\blog5-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/details-sm-1-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\details-sm-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/details-sm-1-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\details-sm-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/blog/details-sm-1-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\blog\details-sm-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/brand/brand-1-1.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\brand\brand-1-1.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/brand/brand-1-2.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\brand\brand-1-2.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/brand/brand-1-3.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\brand\brand-1-3.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/brand/brand-1-4.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\brand\brand-1-4.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/brand/brand-1-5.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\brand\brand-1-5.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/brand/brand-1-6.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\brand\brand-1-6.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/brand/brand-2-1.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\brand\brand-2-1.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/brand/brand-2-2.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\brand\brand-2-2.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/brand/brand-2-3.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\brand\brand-2-3.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/brand/brand-2-4.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\brand\brand-2-4.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/brand/brand-2-5.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\brand\brand-2-5.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/brand/brand-2-6.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\brand\brand-2-6.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/contact/shape-1-1.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\contact\shape-1-1.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/contact/thumb-1-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\contact\thumb-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/cv/mycv.docx
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\cv\mycv.docx
+Content Type: text/plain
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/error/error.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\error\error.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/feature/feature-3-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\feature\feature-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/feature/feature-3-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\feature\feature-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/feature/shape-1-1.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\feature\shape-1-1.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/funfact/bg.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\funfact\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/funfact/thumb-2-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\funfact\thumb-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/gallery/gal-1-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\gallery\gal-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/gallery/gal-1-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\gallery\gal-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/gallery/gal-1-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\gallery\gal-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/hero/hero-1-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\hero\hero-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/hero/hero-2-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\hero\hero-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/hero/shape-1.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\hero\shape-1.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/hero/shape-2-1.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\hero\shape-2-1.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/hero/shape-2-2.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\hero\shape-2-2.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/icon/payment-option.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\icon\payment-option.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/logo/favicon.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\logo\favicon.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/logo/logo-black.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\logo\logo-black.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/logo/logo-grey.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\logo\logo-grey.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/logo/logo-white.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\logo\logo-white.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/menu/home-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\menu\home-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/menu/home-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\menu\home-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/menu/home-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\menu\home-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/menu/home-4.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\menu\home-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/menu/home-5.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\menu\home-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/newsletter/shape-1-1.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\newsletter\shape-1-1.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/client-2.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\client-2.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/client-3.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\client-3.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/client.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\client.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/product-1-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\product-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/product-1-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\product-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/product-1-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\product-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/product-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\product-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/product-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\product-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/product-details-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\product-details-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/product-details-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\product-details-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/product-details-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\product-details-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/product-details-4.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\product-details-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/product-details-sm-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\product-details-sm-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/product-details-sm-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\product-details-sm-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/product-details-sm-4.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\product-details-sm-4.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/product-details-sm-5.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\product-details-sm-5.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/product-details-sm-6.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\product-details-sm-6.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/product-details-sm-7.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\product-details-sm-7.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/thumb-1-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\thumb-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/thumb-1-10.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\thumb-1-10.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/thumb-1-11.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\thumb-1-11.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/thumb-1-12.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\thumb-1-12.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/thumb-1-13.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\thumb-1-13.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/thumb-1-14.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\thumb-1-14.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/thumb-1-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\thumb-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/thumb-1-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\thumb-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/thumb-1-4.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\thumb-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/thumb-1-5.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\thumb-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/thumb-1-7.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\thumb-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/thumb-1-8.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\thumb-1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/product/thumb-1-9.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\product\thumb-1-9.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/details1-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\details1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/details1-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\details1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/details1-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\details1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-2-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-2-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-2-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-3-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-3-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-3-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-3-4.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-3-5.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-3-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-4-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-4-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-4-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-4-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-4-4.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-4-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-4-5.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-4-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-4-6.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-4-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-5-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-5-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-5-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-5-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-5-4.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-5-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-5-5.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-5-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-6-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-6-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-6-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-6-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-6-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/project/project-6-4.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\project\project-6-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/service/details-1-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\service\details-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/service/service-1-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\service\service-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/service/service-1-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\service\service-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/service/service-1-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\service\service-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/service/service-1-4.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\service\service-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/service/service-1-5.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\service\service-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/service/service-1-6.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\service\service-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/service/service-1-7.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\service\service-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/service/service-1-8.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\service\service-1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/service/service-1-9.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\service\service-1-9.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/slider/slider-4-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\slider\slider-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/slider/slider-4-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\slider\slider-4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/team/details.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\team\details.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/team/team-1-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\team\team-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/team/team-1-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\team\team-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/team/team-1-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\team\team-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/team/team-5-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\team\team-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/team/team-5-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\team\team-5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/team/team-5-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\team\team-5-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/team/team-5-4.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\team\team-5-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/team/team-5-5.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\team\team-5-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/team/team-5-6.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\team\team-5-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/testimonial/avata-1-1.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\testimonial\avata-1-1.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/testimonial/avata-1-2.png
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\testimonial\avata-1-2.png
+Content Type: image/png
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/testimonial/thumb-1-1.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\testimonial\thumb-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/testimonial/thumb-1-2.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\testimonial\thumb-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/img/testimonial/thumb-1-3.jpg
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\img\testimonial\thumb-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/ajax-form.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\ajax-form.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/bootstrap-bundle.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\bootstrap-bundle.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/gsap-scroll-smoother.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\gsap-scroll-smoother.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/gsap-scroll-to-plugin.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\gsap-scroll-to-plugin.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/gsap-scroll-trigger.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\gsap-scroll-trigger.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/gsap-split-text.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\gsap-split-text.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/gsap.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\gsap.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/hover-effect.umd.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\hover-effect.umd.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/imagesloaded-pkgd.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\imagesloaded-pkgd.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/isotope-pkgd.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\isotope-pkgd.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/jarallax.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\jarallax.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/jequery-knob.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\jequery-knob.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/jquery-appear.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\jquery-appear.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/magnific-popup.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\magnific-popup.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/main.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/nice-select.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\nice-select.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/purecounter.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\purecounter.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/range-slider.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\range-slider.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/slick.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\slick.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/swiper-bundle.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\swiper-bundle.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/three.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\three.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/vendor/jquery.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\vendor\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/vendor/waypoints.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\vendor\waypoints.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/assets/js/wow.js
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\assets\js\wow.js
+Content Type: application/x-javascript
+
+Uri: https://html.hixstudio.net/interno-prev/interno/blog-classic.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\blog-classic.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/blog-details.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\blog-details.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/cart.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\cart.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/checkout.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\checkout.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/contact.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\contact.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/error.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\error.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/faq.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\faq.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/index-2-one-page.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\index-2-one-page.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/index-2.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\index-2.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/index-3-one-page.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\index-3-one-page.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/index-3.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\index-3.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/index-4-one-page.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\index-4-one-page.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/index-4.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\index-4.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/index-5-one-page.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\index-5-one-page.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/index-5.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\index-5.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/index-one-page.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\index-one-page.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/index.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\index.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/price.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\price.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/project-details.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\project-details.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/project.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\project.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/service-details.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\service-details.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/service.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\service.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/shop-details.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\shop-details.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/shop.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\shop.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/team-details.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\team-details.html
+Content Type: text/html
+
+Uri: https://html.hixstudio.net/interno-prev/interno/team.html
+File Name: C:\web copier\interior\html.hixstudio.net\interno-prev\interno\team.html
+Content Type: text/html
+

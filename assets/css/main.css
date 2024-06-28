@@ -95,7 +95,7 @@
 /*----------------------------------------*/
 /*  1.1 Theme Default
 /*----------------------------------------*/
-@import url('../../../../css2');
+@import url('css2');
 .tp-product-tab-2 .nav-tabs .nav-link .tp-product-tab-tooltip, .tp-tab-line, .tp-swiper-dot .swiper-pagination-bullet, .tp-swiper-dot-border .swiper-pagination-bullet, .tp-swiper-scrollbar, .back-to-top-wrapper, a,
 button,
 p,
@@ -9379,27 +9379,27 @@ body .ui-tooltip {
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
   .tp-slider-3-title {
-    font-size: 85px;
+    font-size: 70px;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-slider-3-title {
-    font-size: 80px;
+    font-size: 65px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .tp-slider-3-title {
-    font-size: 72px;
+    font-size: 58px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .tp-slider-3-title {
-    font-size: 65px;
+    font-size: 50px;
   }
 }
 @media (max-width: 767px) {
   .tp-slider-3-title {
-    font-size: 51px;
+    font-size: 36px;
   }
 }
 .tp-slider-3-content {
@@ -9446,31 +9446,31 @@ body .ui-tooltip {
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
   .tp-slider-3-big-text {
     margin-left: -40px;
-    font-size: 90px;
+    font-size: 70px;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-slider-3-big-text {
     margin-left: 0px;
-    font-size: 90px;
+    font-size: 70px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .tp-slider-3-big-text {
     margin-left: 0px;
-    font-size: 85px;
+    font-size: 65px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .tp-slider-3-big-text {
     margin-left: 0px;
-    font-size: 65px;
+    font-size: 45px;
   }
 }
 @media (max-width: 767px) {
   .tp-slider-3-big-text {
     margin-left: 0px;
-    font-size: 58px;
+    font-size: 38px;
   }
 }
 .tp-slider-3-social {
